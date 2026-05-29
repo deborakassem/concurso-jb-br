@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime
+data/bot.log
+data/state.json
+
+# Ambiente virtual
+.env
+venv/
+.venv/
